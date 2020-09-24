@@ -15,7 +15,7 @@ function deleteFromDriverByKey(driver,key){
 }
 
 function destructivelyDeleteFromDriverByKey(driver,key){
-  
+
 }
 
 let driver = {};
